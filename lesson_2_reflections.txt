@@ -1,0 +1,10 @@
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+staging area holds the files to be committed to the git repo and it can have some or all of the untracked files.
+working directory on the other hand keeps both tracked and untracked files.
+It helps in separating commits.
+
+What happens when you initialize a repository? Why do you need to do it?
+
+A .git folder is created. It is needed to track the versions/history of files that are present in the directory. Also, we get a Initial Commit message on doing git status.
