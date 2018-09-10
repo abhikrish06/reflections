@@ -26,5 +26,5 @@ there wont be concurrency and lot of conflicts. GitHub is much better and easier
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
-
-    Fill in your answer here
+Ans. When we are trying out some new ideas or when we are not sure whether the current is correct,
+we should use separate branch. They have their own pros and cons.
