@@ -17,8 +17,7 @@ Unlike forking, you won't be able to pull down changes from the original reposit
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
-
-    Fill in your answer here
+Ans. It helps to resolve merge conflicts.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
