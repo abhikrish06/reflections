@@ -1,3 +1,19 @@
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Ans: Automatic commit will mess things as Git doesnt know why a particular change was made. Hnce manual merge is good.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+Ans: Changes made to both branches are merged into one and features from both are included. For better understanding of commit/changes flow, it is represented like this.
+
+How do the diagrams help you visualize the branch structure?
+Ans: It helps to see when and where what changes were made. What all branches are there, who is linked to who etc etc.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Ans: For trying out new features without affecting the existing code, we can use branches.
+This will help in easier deployment and merge in future.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+By adding single or couple of files corresponding to a logical changes into staging area using "git add".
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
